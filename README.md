@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhalfanK
-- 🎓 I’m a recent University of Manchester graduate
-- 💞️ I’m looking to collaborate on projects that challenge me
+- 🎓 I’m a Graduate from the University of Manchester, with a background in data analysis.
+- 💞️ I’m currently learning to become a DevOps Engineer
 - 📫 How to reach me: Khalfan.k@outlook.com
 
 <!---
